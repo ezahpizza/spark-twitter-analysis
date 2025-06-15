@@ -19,7 +19,7 @@ nltk.download('stopwords')
 # -----------------------------------------------------
 
 # Connect to MongoDB server
-client = MongoClient('mongodb+srv://Prateek:p6r4a2003@prateek.unlne.mongodb.net/?retryWrites=true&w=majority&appName=prateek')
+client = MongoClient('mongodburi')
 # Select the database
 db = client['bigdata_project']
 
