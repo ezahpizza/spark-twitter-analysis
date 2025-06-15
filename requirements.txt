@@ -1,0 +1,8 @@
+Django
+matplotlib
+nltk
+pandas
+pymongo
+pyspark
+seaborn
+kafka
