@@ -112,7 +112,7 @@ Sentiment classification
 
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the Apache License. See `LICENSE` for details.
 
 ## Acknowledgments
 - Apache Spark, Apache Kafka, Django, Twitter API
