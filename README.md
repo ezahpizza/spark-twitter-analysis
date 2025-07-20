@@ -12,7 +12,7 @@ This project is a real-time sentiment analysis platform for Twitter data, levera
 
 ## Project plan
 
-![alt text](image.png)
+![alt text](/assets/image.png)
 
 [Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) used for training the model
 
@@ -101,13 +101,13 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 - Replace or retrain the ML model as needed.
 
 ## Screenshots
-![alt text](image-1.png)
+![alt text](/assets/image-1.png)
 MongoDB Compass console
 
-![alt text](image-2.png)
+![alt text](/assets/image-2.png)
 Data visualisations
 
-![alt text](image-3.png)
+![alt text](/assets/image-3.png)
 Sentiment classification
 
 
